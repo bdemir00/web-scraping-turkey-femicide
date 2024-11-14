@@ -7,7 +7,9 @@ MySQL
 Jupyter Notebook
 
 #### Install dependencies with:
-> pip install -r requirements.txt
+```
+pip install -r requirements.txt
+```
 
 ### Usage
 **Set up the MySQL database:** Create a MySQL database and update connection credentials in [db-config.json](https://github.com/bdemir00/web-scraping-turkey-femicide/blob/main/db_config.json).  
