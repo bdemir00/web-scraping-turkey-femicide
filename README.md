@@ -1,5 +1,5 @@
 ## Femicide in Turkey Data Scraper
-This small ETL project scrapes and transforms data on femicide in Turkey, loading it into a MySQL database for structured analysis. Using Python, BeautifulSoup, and SQLAlchemy, the pipeline extracts data from a web source called [Anıt Sayaç](https://anitsayac.com/) using Python and BeautifulSoup, transformes as needed, and saves in a MySQL database with SQLAlchemy for efficient data handling.
+This small ETL project scrapes and transforms data on femicide in Turkey, loading it into a MySQL database for structured analysis. Using Python, BeautifulSoup, and SQLAlchemy, the pipeline extracts data from a web source called [Anıt Sayaç](https://anitsayac.com/), transformes the data as needed, and stores it in a MySQL database with SQLAlchemy for efficient data handling.
 
 ### Technologies Used
 - Python   
