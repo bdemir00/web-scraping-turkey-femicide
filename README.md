@@ -16,5 +16,5 @@ pip install -r requirements.txt
 **Run the Notebook:** Open and run the .ipynb file to execute the data pipeline.
 
 ### Acknowledgments
-The scraped data in this project Turkish and is intended for research and educational purposes, providing a foundation for analysis on femicide cases in Turkey.
+The scraped data in this project is in Turkish and intended for research and educational purposes, providing a foundation for analysis on femicide cases in Turkey.
 
